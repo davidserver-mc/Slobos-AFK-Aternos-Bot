@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "davidserver.play.hosting",
-    "port": ,
+    "port": 27327,
     "version": "1.21.8",
     "try-creative": true
   },
