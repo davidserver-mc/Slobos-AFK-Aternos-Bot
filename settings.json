@@ -8,7 +8,7 @@
   "server": {
     "ip": "davidserver.play.hosting",
     "port": 27327,
-    "version": "1.21.8",
+    "version": "",
     "try-creative": true
   },
   "position": {
@@ -29,9 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 120,
       "messages": [
-        "Keeping Server Online!"
+        "Keeping Server Online!",
+        "Keeping Server Online!",
       ]
     },
     "chat-log": true,
